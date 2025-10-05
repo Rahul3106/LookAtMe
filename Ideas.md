@@ -52,3 +52,23 @@
 ### 6.MAKE SMART ALARM FOR LAZY PEOPLE
 -Adding a feature to alarm that when the person opens his eyes only ,the alarm will stop.
 Else alarm will continue until the person awake and show his eyes to the smart alarm.
+### 7. Implement Drowsiness Detection and Alert
+The system can monitor the user's blinking frequency and duration of eye closure to detect if the user is getting drowsy or falling asleep.
+This feature could be useful for preventing accidents during activities such as studying late at night, working long hours, or even for drivers using the app.
+A possible implementation is to play a sound or show a visual alert when signs of drowsiness are detected.
+### 8. Add Customizable Eye Gesture Shortcuts
+Allow users to map specific eye gestures (e.g., winking, double blink, long blink) to particular app functions (like play/pause, volume control, skip).
+This would make the app more flexible and accessible for users with different preferences.
+Useful for users who want a more personalized hands-free experience.
+### 9. Support for Multiple Faces in Frame
+Enhance the app to detect and handle scenarios where more than one person is in front of the camera.
+Useful for collaborative or social media use-cases, or when watching with friends/family.
+The app could prioritize commands from the primary user or allow switching between users.
+### 10. Integrate Emotion Recognition
+Detect user emotions (happy, sad, surprised, etc.) using facial expressions and adjust the app’s behavior accordingly, such as suggesting content based on mood.
+This would make the application more interactive and engaging.
+Could use existing emotion-recognition models for implementation.
+### 11. Eye Movement-Based Scrolling
+Implement scrolling through content (e.g., articles, web pages) by tracking the user’s vertical or horizontal eye movements.
+This feature would be especially helpful for users who want to read or browse without touching a device.
+Calibration can be provided to improve accuracy for different users.
